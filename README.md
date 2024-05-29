@@ -9,7 +9,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-souza-039598294/) [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:nicolesouza09@gmail.com)
 
-<img src="https://github.com/nicolesouzab/nicolesouzab/assets/142950564/d58efb87-691f-4227-8bc6-d820c5280bc5" height="160px" width="200px">
+<img src="https://github.com/nicolesouzab/nicolesouzab/assets/142950564/d58efb87-691f-4227-8bc6-d820c5280bc5" height="150px" width="200px">
 
 ## ![](https://github-contributor-stats.vercel.app/api?username=nicolesouzab&limit=5&theme=radical&combine_all_yearly_contributions=true) ㅤ ![](https://github-readme-stats.vercel.app/api?username=nicolesouzab&theme=radical&hide_border=false&include_all_commits=true&count_private=true) 
 
