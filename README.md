@@ -11,8 +11,6 @@
 
 <img src="https://github.com/nicolesouzab/nicolesouzab/assets/142950564/d58efb87-691f-4227-8bc6-d820c5280bc5" height="120px" width="160px">
 
-##
-
 ## ![](https://github-contributor-stats.vercel.app/api?username=nicolesouzab&limit=5&theme=radical&combine_all_yearly_contributions=true) ㅤ ![](https://github-readme-stats.vercel.app/api?username=nicolesouzab&theme=radical&hide_border=false&include_all_commits=true&count_private=true) 
 
 [![](https://visitcount.itsvg.in/api?id=nicolesouzab&icon=7&color=10)](https://visitcount.itsvg.in)
