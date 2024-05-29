@@ -1,5 +1,5 @@
 # Olá! Sou Nicole 😼
-- 🎓 Estudande de Engenharia de Computação na Universidade Federal do Ceará .
+- 🎓 Estudande de Engenharia de Computação na [Universidade Federal do Ceará](https://www.ufc.br/).
 - 🌱 Brasileira
 - ☀️ Gosto de escutar músicas, assistir animes, ler e programar.
 - 
@@ -11,4 +11,4 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-souza-039598294/) [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:nicolesouza09@gmail.com)
 
-Obrigada pela visita!
+## Obrigada pela visita!
