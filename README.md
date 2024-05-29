@@ -1,4 +1,4 @@
-# Olá! Sou a Nicole 
+# Olá! Sou a Nicole 😼
 - 🎓 Estudande de Engenharia de Computação na [Universidade Federal do Ceará](https://www.ufc.br/).
 - 🌱 Brasileira
 - ☀️ Gosto de escutar músicas, assistir animes, ler e programar.
