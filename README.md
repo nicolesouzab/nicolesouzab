@@ -29,6 +29,6 @@
 <a href="https://www.linkedin.com/in/nicole-souza-039598294/"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
 <a href="mailto:nicolesouza09@gmail.com"><img src="https://img.shields.io/badge/email-4D4577?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/></a>
 
-![](https://github-contributor-stats.vercel.app/api?username=nicolesouzab&limit=5&theme=radical&combine_all_yearly_contributions=true) ![](https://github-readme-stats.vercel.app/api?username=nicolesouzab&theme=radical&hide_border=false&include_all_commits=true&count_private=true) <img src="https://komarev.com/ghpvc/?username=nicolesouzab&style=for-the-badge&color=4D4577&logoColor=F2F2F2&logo=undefined"/></p>
-
 - ## Obrigada pela visita! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
+![](https://github-contributor-stats.vercel.app/api?username=nicolesouzab&limit=5&theme=radical&combine_all_yearly_contributions=true) ![](https://github-readme-stats.vercel.app/api?username=nicolesouzab&theme=radical&hide_border=false&include_all_commits=true&count_private=true) <img src="https://komarev.com/ghpvc/?username=nicolesouzab&style=for-the-badge&color=4D4577&logoColor=F2F2F2&logo=undefined"/></p>
